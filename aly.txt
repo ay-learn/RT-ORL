@@ -14,6 +14,19 @@ Nouvelles techniques en Radiothérapie
                                         Introduction (1)
 
 
+
+●   Les progrès en radiothérapie sont constants. Il est impossible de décrire dans le détail
+    la totalité des techniques en développement.
+
+●   Aujourd'hui, les nouvelles techniques de RTE de haute précision (stéréotaxie,
+    modulation d'intensité) ont toutes pour but de focaliser les rayons le plus précisément
+    possible sur la tumeur (et d'augmenter la dose délivrée) et d'épargner au maximum les
+    tissus sains.
+
+●   Elles sont pratiquées dans un nombre variable d'établissements (de plusieurs dizaines à
+    un ou deux), sont souvent encore en cours d'évaluation et/ou présentent un intérêt
+    uniquement pour des tumeurs spécifiques.
+
 ●   La radiothérapie est un traitement locorégional des cancers. Plus de 50% des patients atteints
     d'un cancer sont traités par radiothérapie à une étape de leur parcours de soin.
 
@@ -123,7 +136,7 @@ et imagerie orthogonale par rapport aux repères anatomiques (les os)
 ●   La radiothérapie conformationnelle est notamment utilisée pour le traitement à visée
     curative des tumeurs de la prostate, du thorax, de l'abdomen, du pelvis, du cerveau, de
     la sphère ORL…
-                               La RTE conformationnelle 3D (RC-3D)
+                               Les Etaps La RTE conformationnelle 3D (RC-3D)
                                      Le scanner dosimétrique
 ●   Définition des volumes cibles pour la RTE moderne:
 
@@ -144,27 +157,8 @@ et imagerie orthogonale par rapport aux repères anatomiques (les os)
 ●   Transfert des données sur les consoles dosimétriques
 
 
+La technique à 5 faisceaux
 
-                      La RTE conformationnelle 3D (RC-3D)
-                                Fusion d'images
-
-●   Aide à la délinéation des volumes cibles pour la RTE moderne
-
-●   Fusion d'images du scanner dosimétrique avec IRM (RTE cérébrale, ORL, prostatique,
-    pelvienne), TEP-18 FDG (RTE pulmonaire, œsophage)
-La RTE conformationnelle 3D (RC-3D)
-     La technique à 5 faisceaux
-●   Les progrès en radiothérapie sont constants. Il est impossible de décrire dans le détail
-    la totalité des techniques en développement.
-
-●   Aujourd'hui, les nouvelles techniques de RTE de haute précision (stéréotaxie,
-    modulation d'intensité) ont toutes pour but de focaliser les rayons le plus précisément
-    possible sur la tumeur (et d'augmenter la dose délivrée) et d'épargner au maximum les
-    tissus sains.
-
-●   Elles sont pratiquées dans un nombre variable d'établissements (de plusieurs dizaines à
-    un ou deux), sont souvent encore en cours d'évaluation et/ou présentent un intérêt
-    uniquement pour des tumeurs spécifiques.
       Radiothérapie Conformationnelle avec Modulation d'Intensité
                             (RCMI, IMRT)
 
