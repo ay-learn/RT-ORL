@@ -1,0 +1,410 @@
+Nouvelles techniques en Radiothérapie
+
+                                       PLAN
+
+●   Introduction sur la radiothérapie
+●   De la radiothérapie 2D à la Radiothérapie Conformationnelle 3D
+●   Evolutions actuelles et futures:
+       - IMRT
+       - IGRT
+       - radiothérapie asservie à la respiration
+       - radiothérapie stéréotaxique
+       - tomothérapie/VMAT
+       - protonthérapie
+                                        Introduction (1)
+
+
+●   La radiothérapie est un traitement locorégional des cancers. Plus de 50% des patients atteints
+    d'un cancer sont traités par radiothérapie à une étape de leur parcours de soin.
+
+●   Elle consiste à utiliser des rayonnements (on dit aussi rayons ou radiations) pour détruire les
+    cellules cancéreuses en bloquant leur capacité à se multiplier. L'irradiation a pour but de détruire
+    les cellules cancéreuses tout en préservant le mieux possible les tissus sains et les organes
+    avoisinants.
+
+●   On distingue la radiothérapie externe (RTE) et la curiethérapie :
+
+        - dans la radiothérapie externe, les rayons sont émis en faisceau par une machine située à
+proximité du patient ; ils traversent la peau pour atteindre la tumeur.
+
+         - dans la curiethérapie, des sources radioactives sont implantées directement à l'intérieur
+du corps de la personne malade.
+                                   Introduction (2)
+                    Quels sont les objectifs de la Radiothérapie ?
+
+1/ Stériliser la tumeur+++
+•Condition d'une survie prolongée
+
+•Meilleure couverture tumorale
+
+•Nouvelles    balistiques
+•Escalade de    dose
+
+2/ Supprimer les complications:
+•Protéger    les tissus sains : moëlle épinière, cœur, cerveau, œsophage, poumon, intestin,
+vessie…
+•Utiliser   les facteurs prédictifs de toxicité (HDV)
+                                Introduction (3)
+                          Comment atteindre ces objectifs ?
+
+●   Optimiser la précision et la reproductibilité de la radiothérapie
+
+●   Optimiser la visualisation des structures anatomiques
+
+●   Optimiser la définition des volumes cibles
+
+●   Optimiser la balistique et la dosimétrie
+
+●   Évaluer la qualité de la conformation
+
+●   Réduire la toxicité
+
+●   Augmenter la dose au niveau de la tumeur
+                                    Introduction (4)
+
+●   Aujourd'hui, la RT classique utilise des faisceaux de photons et/ou électrons.
+    A partir des accélérateurs de particules présents dans les appareils de RT classique génèrent un
+    faisceau d'électrons. Ces particules chargées sont soit directement utilisées pour traiter
+    le patient, soit dirigées vers une cible qui va créer un faisceau de photons qui est
+    ensuite dirigé vers le patient.
+●   Les électrons sont habituellement utilisés pour les irradiations superficielles, ou de
+    quelques cm de profondeur.
+●   Les faisceaux de photons permettent de délivrer une dose plus homogène en
+    profondeur. Toutefois, ce dépôt d'énergie n'est pas strictement localisé. Il y a une petite
+    dispersion latérale le long du parcours (liée à la pénombre du faisceau), et une forte
+    dispersion avant et après « le maximum du dépôt de dose ».
+
+●   L'utilisation de collimateurs, la multiplication des faisceaux et la modulation de
+    l'énergie du faisceau de photons permettent de réaliser des irradiations extrêmement
+    précises dites « conformationnelles avec modulation d'intensité ».
+                                      Radiothérapie 2D
+
+HISTORIQUE
+●   Planification de la radiothérapie par rapport à la profondeur
+
+De la lésion dans 2 plans sagittal et coronal (traitement à mi-diamètre ou à une profondeur donnée)
+●    Installation géométrique à l'aide d'un Simulateur
+et imagerie orthogonale par rapport aux repères anatomiques (les os)
+
+                    Radiothérapie 2D: les inconvénients 
+●   Manque de précision du ciblage
+●   Pas de connaissance possible de la dose délivrée aux organ à risques
+●   Ex: Variations morphologiques non prises en compte: incertitudes…
+
+
+●   Des protections focalisées peu précises par défaut de visualisation des OAR
+3D
+●   La Radiothérapie Conformationnelle en 3 Dimensions (RC-3D) a remplacé la
+    Radiothérapie conventionnelle en 2D
+
+
+
+
+    Simulateur 2D 
+                                                    Accélérateur linéaire de particules
+                                                   de radiothérapie conformationnelle
+                                                 avec table de positionnement robotisée
+
+
+               La Radiothérapie Conformationnelle 3D (RC-3D)
+
+●   La technique de radiothérapie externe la plus utilisée, elle permet de faire correspondre
+    le plus précisément possible (de conformer) le volume sur lequel vont être dirigés les
+    rayons au volume de la tumeur.
+
+●   Elle utilise des images en 3D de la tumeur et des organes avoisinants obtenues par
+    scanner (scanner dosimétrique), parfois associées à d'autres examens d'imagerie (IRM,
+    TEP scan…).
+
+●   Des logiciels permettent de simuler virtuellement, toujours en 3D, la forme des
+    faisceaux d'irradiation et la distribution des doses. Cela permet de délivrer des doses
+    efficaces de rayons en limitant l'exposition des tissus sains.
+
+●   La radiothérapie conformationnelle est notamment utilisée pour le traitement à visée
+    curative des tumeurs de la prostate, du thorax, de l'abdomen, du pelvis, du cerveau, de
+    la sphère ORL…
+                               La RTE conformationnelle 3D (RC-3D)
+                                     Le scanner dosimétrique
+●   Définition des volumes cibles pour la RTE moderne:
+
+         - acquisition d'images anatomiques à l'aide d'un scanner dans la zone d'intérêt
+
+         - en position de traitement dans le système de contention:
+
+         Fabrication du matériel de contention (masque ORL, appui bras).
+
+●   L'objectif est de retrouver tous les jours la même position
+
+         = reproductibilité de la position patient
+
+●   Mise en place de marques sur le patient ou sur le système de contention
+
+●   Coupes tous les 2-3 mm selon les besoins
+
+●   Transfert des données sur les consoles dosimétriques
+
+
+
+                      La RTE conformationnelle 3D (RC-3D)
+                                Fusion d'images
+
+●   Aide à la délinéation des volumes cibles pour la RTE moderne
+
+●   Fusion d'images du scanner dosimétrique avec IRM (RTE cérébrale, ORL, prostatique,
+    pelvienne), TEP-18 FDG (RTE pulmonaire, œsophage)
+La RTE conformationnelle 3D (RC-3D)
+     La technique à 5 faisceaux
+●   Les progrès en radiothérapie sont constants. Il est impossible de décrire dans le détail
+    la totalité des techniques en développement.
+
+●   Aujourd'hui, les nouvelles techniques de RTE de haute précision (stéréotaxie,
+    modulation d'intensité) ont toutes pour but de focaliser les rayons le plus précisément
+    possible sur la tumeur (et d'augmenter la dose délivrée) et d'épargner au maximum les
+    tissus sains.
+
+●   Elles sont pratiquées dans un nombre variable d'établissements (de plusieurs dizaines à
+    un ou deux), sont souvent encore en cours d'évaluation et/ou présentent un intérêt
+    uniquement pour des tumeurs spécifiques.
+      Radiothérapie Conformationnelle avec Modulation d'Intensité
+                            (RCMI, IMRT)
+
+●    Cette technique consiste à faire varier la forme du faisceau au cours d'une même
+     séance pour s'adapter précisément au volume à traiter, et ce même s'il comporte des «
+     creux » ou des concavités (une tumeur en forme de fer à cheval située autour de la
+     moëlle épinière par exemple).
+
+●   Définition/principe: variation spatiale volontaire de la dose (dite fluence) à l'intérieur
+    d'un faisceau, au cours d'une même séance.
+                                       RC3D versus IMRT
+
+●   Définition des faisceaux : énergie, angulation,   ●   Définition des faisceaux : énergie, angulation
+    adaptation des champs au volume cible
+                                                      ●   Spécification, prescription de la dose
+●   Calcul de la distribution de doses et                 souhaitée : définition de contraintes dose/
+    ajustement des paramètres d'irradiation               volume aux structures internes
+    (énergie, pondération) jusqu'à obtention
+    d'une distribution de doses satisfaisante         ●   Calcul de l'intensité des faisceaux par
+                                                          algorithme mathématique : obtention de
+●   Utilisation de faisceaux d'intensité uniforme         profils d'intensité modulée
+    ou modifiés par la présence d'un filtre en coin
+                                                               = PLANIFICATION INVERSE
+         = PLANIFICATION DIRECTE
+                                                IMRT
+
+Pour enchaîner les segments, les lames se positionnent et lorsqu'elles ont atteint leur positon,
+l'accélerateur déclenche l'irradiation : la position du bras de l'accélérateur reste fixe.
+                                            IMRT
+
+
+
+●   Du fait de moduler l'intensité, on obtient une véritable conformation de la distribution de
+    dose à la forme du volume cible
+         - les isodoses englobent le volume cible, indispensable pour des volumes cible de
+         forme concave
+         - adaptation des doses élevées à des volumes complexes
+●   Diminution des doses aux organes à risque (diminution de la toxicité aigue et à long
+    terme)
+       IMRT versus RC3D
+
+RC3D                      IMRT
+       IMRT versus RC3D
+
+RC3D                      IMRT
+Radiothérapie
+conformationnelle
+3D
+IMRT
+                  La radiothérapie guidée par l'image= IGRT (1)
+
+
+●   Objectif: prise en compte des variations anatomiques (déplacements et déformations)
+    survenant entre les séances ou pendant les séances d'irradiation
+
+●   Permet de visualiser la tumeur sous l'accélérateur au moment de la séance d'irradiation
+    par visualisation directe (mode 3D tissus mous) ou indirecte (mode 2D et marqueurs
+    radio-opaques)
+
+●   Si la position de la tumeur sous l'accélérateur ne correspond pas à la position théorique
+    définie lors de la planification: déplacement du patient
+
+●   Une nouvelle planification peut se discuter en cas de déformation majeure des
+    structures anatomiques
+                  La radiothérapie guidée par l'image= IGRT (2)
+
+
+●   Intérêt:
+         - précision = s'assurer de la bonne position de la tumeur mais également de la
+         protection des OAR (organes à risque)
+         - efficacité et tolérance= éviter sous-dosage des volumes cibles/surdosage des OAR
+●    Indispensable pour RTE stéréotaxique et hypofractionnée: délivrance doses élevées par
+     fraction
+●    Moyens:
+         - gammagraphies/imageries portales kV/mV: recalage sur structures osseuses +
+         marqueurs radio-opaques (ex: grains d'or pour RTE prostate)
+      - Cone Beam Computed Tomography= CBCT: système d'imagerie scanographique
+embarquée, recalage sur scanographie dosimétrique et déplacement quantifié et proposé
+                La radiothérapie guidée par l'image= IGRT (3)
+                          Exemple du Cyberknife®
+
+●   Cyberknife® = système robotisé qui possède une imagerie de base qui acquiert des
+    images à l'aide de deux détecteurs positionnés à 45° par rapport à la table de ttt:
+    permet un recalage sur les structures osseuses ou à l'aide de repères fiduciels intra
+    tumoraux
+●   au cours de la séance, tracking de la cible (système optique de suivi de la cible en
+    temps réel, information transmise au bras robotisé qui pilote l'accélérateur
+    miniaturisé)
+●   Indication: - tumeurs mobiles= tumeurs pulmonaires (mouvements respiratoires),
+                rénales, hépatiques
+                - tumeurs rachidiennes
+                - réirradiation tumeurs ORL
+●   Doses plus élevées par séance (hypofractionnement), faible nombre de séances (1 à 5
+    séances)
+                    La radiothérapie asservie à la respiration
+
+
+●   Il s'agit de prendre en compte les mouvements de la respiration pendant l'irradiation
+    du thorax ou du haut de l'abdomen par exemple.
+
+●   Il existe plusieurs solutions :
+
+        - demander au patient, qui visualise sa respiration sur un écran, de la bloquer
+        pendant quelques dizaines de secondes, à un moment précis de son inspiration ;
+
+        - laisser le patient respirer normalement et n'irradier la tumeur que quand elle se
+        présente devant le faisceau d'irradiation = gating
+
+        - faire suivre les mouvements de la tumeur par le faisceau d'irradiation lui-même =
+        tracking (cyberknife®)
+                          La radiothérapie stéréotaxique (1)
+
+
+●   Définition: stéréo (en 3D) et taxique (explorer)
+
+●   Elle permet de diriger des faisceaux de radiations vers une région très spécifique (ex: cerveau)
+
+●   C'est une technique de haute précision basée sur l'utilisation de microfaisceaux convergents
+    permettant d'irradier à haute dose de très petits volumes.
+
+●   On distingue:
+
+          - la radio chirurgie stéréotaxique: on délivre une dose élevée de radiation vers la tumeur
+(fraction unique) mais pas d'incision chirurgicale
+
+         - la radiothérapie stéréotaxique fractionnée: plus faibles doses de radiation en plusieurs
+séances (fractions multiples)
+                           La radiothérapie stéréotaxique (2)
+
+●Cette technique peut être réalisée soit à l'aide d'une machine dédiée (gamma-knife), soit avec
+un accélérateur linéaire muni de cônes cylindriques de diamètre modulable (ex: Novalis®)
+●   Indications:
+       - lésions cérébrales: bénignes ou malignes mais non chirurgicales car trop profondes ou
+en zone fonctionnelle = gliomes, méningiomes, neurinomes, adénome hypophysaire mais aussi
+malformations vasculaires cérébrales
+         - métastases cérébrales: localisation unique ou récidive après RC3D
+      - radiothérapie stéréotaxique extra crânienne: lésions de la moëlle épinière, tumeurs
+pulmonaires, hépatiques
+●   Limites:
+         - Nécessité de contentions spécifiques: cadre stéréotaxique fixe ou amovible
+         - limite de taille tumorale de 3 cm en général
+                                   La tomothérapie
+
+
+●   C'est une technique de radiothérapie guidée par l'image, qui consiste à coupler un
+    scanner et un accélérateur de particules miniaturisé qui tourne autour du patient en «
+    spirale » (= radiothérapie hélicoïdale), pendant que la table de radiologie se déplace
+    longitudinalement.
+
+●   Les faisceaux de RT varient en fonction du déplacement du patient (variation de
+    l'ouverture au cours de l'irradiation permettant une radiothérapie avec modulation
+    d'intensité)
+
+●   Avantages: meilleur ciblage du tissu tumoral à irradier, meilleure épargne des tissus
+    sains environnants
+
+●   En 2015: une dizaine de centres français et 3 CHU sont équipés d'un appareil de
+    tomothérapie
+                     Le Cyberknife®
+
+●   C'est un nouveau système de radiochirurgie
+    qui utilise la robotique pour traiter des tumeurs
+    dans tout le corps.
+
+●   Elle consiste en un petit accélérateur linéaire,
+    tenu par un robot capable de le déplacer dans
+    toutes les directions possibles.
+
+●   Les faisceaux produits par cet appareil sont assez petits, mais ils peuvent être multipliés
+    quasiment à l'infini et varier tous les angles de tir. Cela permet de focaliser la dose
+    d'irradiation en minimisant l'impact sur les tissus sains avoisinants. Cette technique permet
+    de traiter des tumeurs de taille limitée.
+
+●   La tomothérapie et le Cyberknife® sont destinés à traiter des tumeurs dont la localisation ne
+    permet pas la réalisation d'une radiothérapie conformationnelle « classique ».
+                                     VMAT
+            = irradiation avec Modulation d'intensité Volumétrique
+                                par Arc Thérapie
+
+●   Synthèse des dernières évolutions techniques de la RT
+= association de la RT conformationnelle guidée par l'image + modulation d'intensité
+●possibilité d'irradier la tumeur avec plus de précision que la RT conventionnelle grâce à un
+contrôle (une modulation) des faisceaux d'irradiation sur un arc complet de 360°. Les
+organes sains sont préservés lors de l'irradiation de tumeurs voisines.
+●Comme la tomothérapie, méthode d'irradiation conformationnelle avec modulation
+d'intensité par action circulaire. Traitement plus rapide mais sur des zones plus réduites
+●Le processus pour délivrer des doses par technique VMAT est très complexe. Il nécessite
+des experts en radio physique et en dosimétrie. Une assurance qualité est obligatoire à
+chaque étape du processus.
+VMAT
+VMAT versus IMRT
+                                         Hadronthérapie
+
+●   L'hadronthérapie utilise des faisceaux de particules: les hadrons
+         - protons = protonthérapie
+         - ions carbone= carbonethérapie
+●    Les protons présentent des propriétés balistiques
+     avantageuses (qui permettent de réduire la dose
+     déposée dans les tissus traversés avant la tumeur,
+     et de ne pas irradier les tissus situés derrière la
+     tumeur).
+
+
+●    But: améliorer l'irradiation des cellules tumorales tout en épargnant les tissus sains aux
+     alentours
+●    Indications: pertinence pour ttt nécessitant une très grande précision: tumeurs de l'œil et
+     de la base du crâne (proches des voies optiques et de la moëlle épinière)
+                                     La protonthérapie
+
+●    En pratique: jusque la fin des années 1980, phase expérimentale. Depuis 1990, plusieurs CH
+     dédiés ont été construits ou sont en projet, principalement au Japon et aux Etats Unis.
+
+●    Limites:
+
+         - cela nécessite des technologies lourdes (accélérateur de particules à protons, enceinte
+         de radioprotection) et sophistiquées (systèmes de planification du ttt, de conformation du
+         faisceau, de positionnement du patient)
+
+         - accessibilité réduite: 2 centres seulement en France (centre de protonthérapie Institut
+         Curie à Orsay et le cyclotron Centre Antoine Lacassagne à Nice)
+
+         - indications limitées: tumeurs radiorésistantes (nécessitant très fortes doses) avec épargne
+         indispensable des OAR environnants, tumeurs intracrâniennes, de la base du crâne,
+         médullaires, notamment tumeurs de l'enfant (chondromes, chondrosarcomes,
+         médulloblastomes, craniopharyngiomes)
+
+●   Ions carbone: pas de centre actuellement en France, projet ETOILE Lyon suspendu, projet
+    ARCADE à Caen 2017?
+                                          Conclusion
+
+●   Progrès majeurs de la radiothérapie ces vingt dernières années!
+●De la radiothérapie 2D à la radiothérapie 3D avec acquisition d'images scanographiques (+
+fusion d'images) pour une meilleure définition des volumes tumoraux
+●Modulation d'intensité et multiplication des portes d'entrée des faisceaux pour une
+meilleure couverture du volume cible
+●Systèmes modernes d'imageries embarqués pour un contrôle quotidien du
+positionnement du patient et de la tumeur traitée
+●Objectifs respectés actuellement: meilleure couverture du volume tumoral et
+augmentation de la dose délivrée pour une plus grande efficacité du ttt, avec protection
+des tissus sains environnants pour réduire les effets secondaires aigus et tardifs
+●   Perspectives nombreuses, en particulier recherches sur les ttt radio sensibilisants
+Merci de votre attention!
+
